@@ -2,6 +2,8 @@
 
 _A project task for &lt;Distributed Systems&gt; lecture in computer engineering undergraduate course program._
 
+Evaluate South Korea's political situation using the result of the 21st National Assembly election and 8values political quiz.
+
 ## Getting Started
 
 ### Requirements
